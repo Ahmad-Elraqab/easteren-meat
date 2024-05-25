@@ -1,0 +1,7 @@
+<svg id="Component_15_1" data-name="Component 15 – 1" xmlns="http://www.w3.org/2000/svg" width="50" height="44" viewBox="0 0 50 44">
+  <g id="Rectangle_1971" data-name="Rectangle 1971" fill="#fff" stroke="#868686" stroke-width="1">
+    <rect width="50" height="44" rx="4" stroke="none"/>
+    <rect x="0.5" y="0.5" width="49" height="43" rx="3.5" fill="none"/>
+  </g>
+  <path id="gps" d="M2.959,0A9.22,9.22,0,0,0-6.25,9.209c0,6.383,9.219,17.285,9.219,17.285s9.2-11.217,9.2-17.285A9.22,9.22,0,0,0,2.959,0ZM5.738,11.906a3.93,3.93,0,1,1,0-5.557A3.918,3.918,0,0,1,5.738,11.906Zm0,0" transform="translate(22.25 9)" fill="#868686"/>
+</svg>

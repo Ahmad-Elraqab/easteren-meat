@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="حذف" transform="translate(-48 -32)">
+    <path id="Path_472" data-name="Path 472" d="M0,0H32V32H0Z" transform="translate(48 32)" fill="#868686"/>
+    <g id="bank" transform="translate(54 -55.771)">
+      <g id="Group_8124" data-name="Group 8124" transform="translate(0 97.771)">
+        <g id="Group_8123" data-name="Group 8123" transform="translate(0 0)">
+          <path id="Path_5567" data-name="Path 5567" d="M18.816,97.771H1.709A1.709,1.709,0,0,0,0,99.48v.506H20.525V99.48A1.709,1.709,0,0,0,18.816,97.771Z" transform="translate(0 -97.771)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_8126" data-name="Group 8126" transform="translate(0 101.995)">
+        <g id="Group_8125" data-name="Group 8125" transform="translate(0 0)">
+          <path id="Path_5568" data-name="Path 5568" d="M0,203.13v6.753a1.709,1.709,0,0,0,1.709,1.709H18.816a1.709,1.709,0,0,0,1.709-1.709V203.13Zm6.07,5.653H2.522v-1.339H6.07Zm11.512,1.078a1.261,1.261,0,0,1-.924-.4,1.265,1.265,0,1,1,0-1.726,1.264,1.264,0,1,1,.924,2.127Z" transform="translate(0 -203.13)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

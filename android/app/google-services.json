@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "728005402911",
+    "firebase_url": "https://easternmeat-4466a.firebaseio.com",
+    "project_id": "easternmeat-4466a",
+    "storage_bucket": "easternmeat-4466a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728005402911:android:d8a839f99f6ee0a4ba502a",
+        "android_client_info": {
+          "package_name": "com.easternmeat.drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728005402911-pgmtbv8q942m3sgfc7lb1nilsn0nvlvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL-55S5gz0FPXiYX0q8GCXkz1xCtOMa5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728005402911-pgmtbv8q942m3sgfc7lb1nilsn0nvlvu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728005402911-ovksht83n184tvmvtu9iq5v0n0haa539.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easternmeatapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728005402911:android:6ba664f42530f806ba502a",
+        "android_client_info": {
+          "package_name": "com.easternmeat.easternmeatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728005402911-pgmtbv8q942m3sgfc7lb1nilsn0nvlvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL-55S5gz0FPXiYX0q8GCXkz1xCtOMa5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728005402911-pgmtbv8q942m3sgfc7lb1nilsn0nvlvu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728005402911-ovksht83n184tvmvtu9iq5v0n0haa539.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easternmeatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

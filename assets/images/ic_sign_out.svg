@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="حذف" transform="translate(-48 -32)">
+    <path id="Path_472" data-name="Path 472" d="M0,0H32V32H0Z" transform="translate(48 32)" fill="#868686"/>
+    <g id="logout" transform="translate(57 40.15)">
+      <g id="Group_249" data-name="Group 249" transform="translate(0 0.85)">
+        <g id="Group_248" data-name="Group 248">
+          <path id="Path_488" data-name="Path 488" d="M6.594,12.938H1.648a.55.55,0,0,1-.549-.549V2.5a.55.55,0,0,1,.549-.549H6.594a.549.549,0,0,0,0-1.1H1.648A1.65,1.65,0,0,0,0,2.5v9.89a1.65,1.65,0,0,0,1.648,1.648H6.594a.549.549,0,0,0,0-1.1Z" transform="translate(0 -0.85)" fill="#fff" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_251" data-name="Group 251" transform="translate(4.396 3.597)">
+        <g id="Group_250" data-name="Group 250">
+          <path id="Path_489" data-name="Path 489" d="M178.772,110.62l-3.341-3.3a.549.549,0,1,0-.771.782l2.387,2.356h-6.4a.549.549,0,0,0,0,1.1h6.4l-2.387,2.356a.549.549,0,1,0,.771.782l3.341-3.3a.549.549,0,0,0,0-.782Z" transform="translate(-170.1 -107.165)" fill="#fff" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
